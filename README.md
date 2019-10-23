@@ -1,4 +1,11 @@
-# matcha, match me.
-https://www.youtube.com/watch?v=HEXWRTEbj1I
+# Hypertube
+This project is about creating a dating website.
 
-APP, API and SQL DB for MATCHA
+## Subject
+A user will then be able to register, connect, fill his/her profile, search and look into the profile of other users, like them 1, chat with those that “liked” back.
+
+## Stack
+* Express.js
+* Vuejs
+* PostgreSql
+
