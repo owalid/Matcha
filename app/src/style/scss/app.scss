@@ -1,0 +1,35 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Eczar');
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+
+
+@import "./style.scss";
+
+$black:hsl(0, 0%, 21%);
+$red: rgba(253, 116, 108, 1);
+$tabs-link-active-border-bottom-color:$red;
+$tabs-link-hover-color:$red;
+$primary: $red;
+$notification-padding:1rem 2rem 1rem 1rem;
+$card-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+$box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+
+// Bulma
+//@import "~bulma/sass/utilities/initial-variables";
+//@import "~bulma/sass/utilities/functions";
+
+// Add new color variables to the color map.
+//@import "~bulma/sass/utilities/derived-variables";
+
+// Add bulma extensions
+// @import "~bulma-extensions/src/sass/index";
+// @import "~bulma-extensions/bulma-timeline/dist/css/bulma-timeline.sass";
+@import '~bulma/bulma';
+@import '~bulma-extensions/dist/css/bulma-extensions.min.css';
+@import "~bulma-extensions/bulma-carousel/dist/css/bulma-carousel.min.css";
+@import "~bulma-extensions/bulma-badge/dist/css/bulma-badge.min.css";
+@import '~bulma-calendar/dist/css/bulma-calendar.min.css';
+// @import "bulmaCalendar.sass"
+// @import '~bulma-extensions/bulma-carousel/dist/bulma-carousel.sass';
+// @import '~bulma-extension/bulma-calendar';
