@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.29",
-    "@fortawesome/free-solid-svg-icons": "5.13.1",
+    "@fortawesome/fontawesome-svg-core": "1.2.30",
+    "@fortawesome/free-solid-svg-icons": "5.14.0",
     "@fortawesome/vue-fontawesome": "0.1.10",
     "axios": "0.19.2",
     "bulma": "0.7.5",
@@ -24,12 +24,12 @@
     "moment-timezone": "0.5.31",
     "register-service-worker": "1.7.1",
     "socket.io-client": "2.3.0",
-    "sweetalert2": "8.19.0",
+    "sweetalert2": "9.17.0",
     "vue": "2.6.11",
     "vue-authenticate": "1.4.1",
     "vue-axios": "2.1.5",
     "vue-carousel": "0.18.0",
-    "vue-facebook-login-component": "1.6.0",
+    "vue-facebook-login-component": "2.3.0",
     "vue-google-autocomplete": "1.1.0",
     "vue-grid-layout": "2.3.7",
     "vue-js-grid": "1.0.1",
@@ -40,18 +40,18 @@
     "vue2-google-maps": "0.10.7",
     "vuejs-datepicker": "1.6.2",
     "vuex": "3.5.1",
-    "vuex-persistedstate": "2.7.1"
+    "vuex-persistedstate": "3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "3.12.1",
-    "@vue/cli-plugin-pwa": "3.12.1",
-    "@vue/cli-service": "3.12.1",
+    "@vue/cli-plugin-babel": "4.4.6",
+    "@vue/cli-plugin-pwa": "4.4.6",
+    "@vue/cli-service": "4.4.6",
     "@vue/eslint-config-standard": "4.0.0",
     "babel-eslint": "10.1.0",
     "eslint": "7.4.0",
-    "eslint-plugin-vue": "5.2.3",
+    "eslint-plugin-vue": "6.2.2",
     "node-sass": "4.14.1",
-    "sass-loader": "7.3.1",
+    "sass-loader": "9.0.2",
     "vue-template-compiler": "2.6.11"
   }
 }
