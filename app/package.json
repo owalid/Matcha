@@ -48,7 +48,7 @@
     "@vue/cli-service": "4.4.6",
     "@vue/eslint-config-standard": "4.0.0",
     "babel-eslint": "10.1.0",
-    "eslint": "5.16.0",
+    "eslint": "7.4.0",
     "eslint-plugin-vue": "6.2.2",
     "node-sass": "4.14.1",
     "sass-loader": "9.0.2",
