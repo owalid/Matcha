@@ -20,7 +20,7 @@
     "geolib": "3.3.1",
     "js-cookie": "2.2.1",
     "jsonwebtoken": "8.5.1",
-    "moment": "2.27.0",
+    "moment": "2.28.0",
     "moment-timezone": "0.5.31",
     "register-service-worker": "1.7.1",
     "socket.io-client": "2.3.0",
