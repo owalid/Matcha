@@ -24,7 +24,7 @@
     "moment-timezone": "0.5.31",
     "register-service-worker": "1.7.1",
     "socket.io-client": "2.3.0",
-    "sweetalert2": "10.3.0",
+    "sweetalert2": "10.3.3",
     "vue": "2.6.12",
     "vue-authenticate": "1.4.1",
     "vue-axios": "2.1.5",
