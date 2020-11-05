@@ -29,7 +29,7 @@
     "qrcode": "^1.4.1",
     "request": "^2.88.0",
     "sendmail": "^1.6.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.0",
     "speakeasy": "^2.0.0",
     "twilio": "^3.34.0"
   },
