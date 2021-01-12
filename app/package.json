@@ -36,7 +36,7 @@
     "vue-multiselect": "2.1.6",
     "vue-router": "3.4.9",
     "vue-socket.io": "3.0.10",
-    "vue-socket.io-extended": "4.0.5",
+    "vue-socket.io-extended": "4.0.6",
     "vue2-google-maps": "0.10.7",
     "vuejs-datepicker": "1.6.2",
     "vuex": "3.6.0",
